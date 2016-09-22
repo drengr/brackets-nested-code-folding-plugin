@@ -1,0 +1,11 @@
+{
+    "name": "brackets-advanced-code-folding",
+    "title": "Advanced Code Folding",
+    "description": "Advanced Code Folding is a plugin for Brackets, which will help you to collapse/expand code regions to the selected level",
+    "version": "0.0.1",
+    "author": "Evgeniy Drengr",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=1.7.0"
+    }
+}
